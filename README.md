@@ -5,7 +5,7 @@ A simple yet elegant **One-Liner Calculator** built using **HTML, CSS, and JavaS
 1. The calculator accepts input as a **single-line arithmetic expression** (e.g., `12 + 3 * 2`).  
 2. When the `=` button is pressed (or Enter key is hit), JavaScript evaluates the expression.  
 3. The result is displayed instantly in the output field.  
-4. You can clear the input using the `C` button or backspace to correct entries.
+4. You can clear the input using the `AC` button or backspace to correct entries.
 
 # 🚀 Getting Started
 1. Clone this repository.
