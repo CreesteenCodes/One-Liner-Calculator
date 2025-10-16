@@ -10,9 +10,9 @@ This project demonstrates how minimalism and modern UI trends can combine to cre
 
 # 🚀 Getting Started
 1. Clone this repository.
-   '''bash
+   ```bash
    git clone https://github.com/yourusername/one-liner-calculator.git
 2. Navigate to the project folder:
-   '''bash
+   ```bash
    cd one-liner-calculator
 4. Open index.html in your preferred browser.
