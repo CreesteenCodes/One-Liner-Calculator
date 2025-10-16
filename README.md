@@ -14,4 +14,4 @@ A simple yet elegant **One-Liner Calculator** built using **HTML, CSS, and JavaS
 2. Navigate to the project folder:
    ```bash
    cd one-liner-calculator
-4. Open index.html in your preferred browser.
+4. Open `index.html` in your preferred browser.
