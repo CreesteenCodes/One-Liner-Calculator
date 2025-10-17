@@ -15,3 +15,6 @@ A simple yet elegant **One-Liner Calculator** built using **HTML, CSS, and JavaS
    ```bash
    cd one-liner-calculator
 4. Open `index.html` in your preferred browser.
+
+# 📝 Note
+**Disclaimer**: The percent conditional statement is not working well, adjust it in JavaScript if you want to make it work well.
