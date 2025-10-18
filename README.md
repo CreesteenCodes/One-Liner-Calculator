@@ -1,5 +1,5 @@
 # 🧮 One-Liner Calculator
-A simple yet elegant **One-Liner Calculator** built using **HTML, CSS, and JavaScript**, designed with a **Glassmorphism** effect. This project demonstrates how minimalism and modern UI trends can combine to create a clean, functional calculator interface.
+A simple yet elegant **One-Liner Calculator** built using **HTML, CSS, and JavaScript**, designed with a **glassmorphism effect**. This project demonstrates how minimalism and modern UI trends can combine to create a clean, functional calculator interface.
 
 # 🧩 How It Works
 1. The calculator accepts input as a **single-line arithmetic expression** (e.g., `12 + 3 * 2`).  
